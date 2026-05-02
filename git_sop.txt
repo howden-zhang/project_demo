@@ -1,4 +1,5 @@
 create new github:
+
 1. git init
 2. git add .
 3. git commit -m "desc"
@@ -7,6 +8,7 @@ create new github:
 6. git push origin master
 
 edit file and push github:
+
 1. git add .
 2. git commit -m "desc"
 3. git push origin master
