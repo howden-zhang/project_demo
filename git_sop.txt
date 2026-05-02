@@ -1,0 +1,13 @@
+create new github:
+1. git init
+2. git add .
+3. git commit -m "desc"
+4. git remote add origin https://github.com/howden-zhang/xxxxxxxxxxxxxxgit
+5. git branch -M master
+6. git push origin master
+
+edit file and push github:
+1. git add .
+2. git commit -m "desc"
+3. git push origin master
+
